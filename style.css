@@ -7,12 +7,12 @@
 }
 
 .boxes {
-  flex: 1 1 300px;
+  flex: 1 1 200px;
   width: 100px;
   /* height: 100px; */
 
   background: linear-gradient(45deg, rgb(49, 13, 13), green);
-  color: white;
+  color: rgb(28, 229, 219);
   text-align: center;
   border: 3px solid yellow;
 }
