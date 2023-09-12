@@ -4,12 +4,15 @@
   background: linear-gradient(12deg, lightblue, lightpink);
   display: flex;
   flex-wrap: wrap;
+  padding: 20px;
+  gap: 10px;
 }
 
 .boxes {
   flex: 1 1 200px;
   width: 100px;
-  /* height: 100px; */
+  height: 100px;
+  border-radius: 20px;
 
   background: linear-gradient(45deg, rgb(49, 13, 13), green);
   color: rgb(28, 229, 219);
