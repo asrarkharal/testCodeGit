@@ -1,3 +1,18 @@
-body {
-  background-color: green;
+.container {
+  height: 50vh;
+  width: 50%;
+  background: linear-gradient(12deg, lightblue, lightpink);
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.boxes {
+  flex: 1 1 300px;
+  width: 100px;
+  /* height: 100px; */
+
+  background: linear-gradient(45deg, rgb(49, 13, 13), green);
+  color: white;
+  text-align: center;
+  border: 3px solid yellow;
 }
