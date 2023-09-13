@@ -29,7 +29,8 @@ footer {
   color: white;
 }
 header {
-  text-align: ;
+  color: white;
+  text-align: center;
   height: 100px;
-  background: linear-gradient(20deg, lightblue, pink);
+  background: linear-gradient(20deg, lightblue, rgb(116, 35, 48));
 }
