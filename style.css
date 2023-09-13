@@ -40,3 +40,8 @@ aside {
 
   float: left;
 }
+
+section {
+  width: 100%;
+  background-color: orangered;
+}
